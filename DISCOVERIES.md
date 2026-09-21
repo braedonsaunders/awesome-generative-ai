@@ -182,6 +182,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Network-AI](https://github.com/Jovancoding/Network-AI) - A TypeScript/Node.js multi-agent orchestrator with shared state, guardrails, token budgets, and adapters for multiple agent frameworks. #opensource
 - [Agency Orchestrator](https://github.com/jnMetaCode/agency-orchestrator) - YAML-first multi-agent workflow orchestrator with built-in AI roles, DAG parallelism, and conditional branching. Supports DeepSeek, Claude, OpenAI, and Ollama. #opensource
 
+- [Bunkhouse](https://github.com/braedonsaunders/bunkhouse) - Open-source AI employees for main-street business with a company inbox and org chart. #opensource
 ### Custom assistants
 
 - [SiteGPT](https://sitegpt.ai/) - Make AI your expert customer support agent.
